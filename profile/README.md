@@ -3,7 +3,7 @@
 
 <img align="left" src="./profile/open_access.jpg" width="20" height="20"> We believe in Open Access principles. We apply a range of practices through which the research outputs will be accessible online in a public repo with reduced and/or no copyright, free of cost or other access barriers for the purpose of publicly peer review and reuse.
 
-<img align="left" src="./profile/home.png" width="20" > We are located at Labroom 215, Essex Hall, 401 Sunset Ave., Windsor, ON., N9B3P4, Canada
+<img align="left" src="./profile/home.png" width="50" > We are located at Labroom 215, Essex Hall, 401 Sunset Ave., Windsor, ON., N9B3P4, Canada
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
