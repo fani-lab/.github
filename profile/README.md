@@ -5,7 +5,7 @@
 
 <img align="left" src="./profile/home.png" width="20" > We are located at [`215 Essex Hall, University of Windsor, 401 Sunset Ave., Windsor, ON., N9B3P4, Canada`](https://goo.gl/maps/RQuPpTiJjpkJkLW68), `(519) 253-3000` Ext: `3587`
 
-<img align="left" src="./profile/sponsor.png" width="20" > We are grateful to our partners [``NSERC``](https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp), [`Mitacs`](https://www.mitacs.ca/en/programs/accelerate), and [`Press'nXPress`](https://pxp.ai/), who provide solid `in-kind` and `financial` support for our research work. 
+<img align="left" src="./profile/sponsor.png" width="20" > We are grateful to our partners [``NSERC``](https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp), [``CFI-JELF``](https://www.innovation.ca/apply-manage-awards/funding-opportunities/john-r-evans-leaders-fund), [``ORF-RI``](https://www.ontario.ca/page/ontario-research-fund-research-infrastructure), [`Mitacs`](https://www.mitacs.ca/en/programs/accelerate), and [`Press'nXPress`](https://pxp.ai/), who provide solid `in-kind` and `financial` support for our research work. 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
