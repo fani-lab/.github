@@ -3,7 +3,7 @@
 
 <img align="left" src="./profile/open_access.png" width="20" height="20"> We believe in [``Open Access``](https://en.wikipedia.org/wiki/Open_access) principles. We apply a range of practices through which the research outputs will be accessible online in a public repo with reduced and/or no copyright, free of cost or other access barriers for the purpose of publicly peer review and reuse.
 
-<img align="left" src="./profile/home.png" width="20" > We are located at [`118 & 215 Essex Hall, University of Windsor, 401 Sunset Ave., Windsor, ON., N9B3P4, Canada`](https://goo.gl/maps/RQuPpTiJjpkJkLW68), `(519) 253-3000` Ext: `3587`
+<img align="left" src="./profile/home.png" width="20" > We are located at [`3146 Erie Hall, University of Windsor, 401 Sunset Ave., Windsor, ON., N9B3P4, Canada`](https://maps.app.goo.gl/VvBTMqAF3wwxu8F56), `(519) 253-3000` Ext: `3743`.
 
 <img align="left" src="./profile/sponsor.png" width="20" > We are grateful to our partners [``NSERC``](https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp), [``CFI-JELF``](https://www.innovation.ca/apply-manage-awards/funding-opportunities/john-r-evans-leaders-fund), [``ORF-RI``](https://www.ontario.ca/page/ontario-research-fund-research-infrastructure), [`Mitacs`](https://www.mitacs.ca/en/programs/accelerate), and [`Press'nXPress`](https://pxp.ai/), who provide solid `in-kind` and `financial` support for our research work. 
 <!--
